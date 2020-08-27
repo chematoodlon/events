@@ -10,3 +10,8 @@ html{
     display: none;
 }
 
+@font-face {
+	font-family:'Mandala';
+	src:url('Mandala.ttf') format('truetype');
+	font-style:normal;
+}
